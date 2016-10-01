@@ -1,0 +1,20 @@
+.exclude {
+  color: inherit;
+}
+
+body {
+  padding: 5%;
+  background-color: #f3f3f3;
+}
+
+#puzzleTwo {
+  display: none;
+}
+
+#puzzleThree {
+  display: none;
+}
+
+#congratulations {
+  display: none;
+}
